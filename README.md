@@ -1,6 +1,6 @@
 # Mexico GeoJSON files
 
-This repository contains GeoJSON files for each state in Mexico updated from the 2020-2022 CONABIO shapefiles.
+This repository contains GeoJSON files for each state in Mexico updated from the 2020-2023 CONABIO shapefiles.
 
 Each year version is separated into their own folder, so you can choose the best fit for your data.
 
